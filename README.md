@@ -1,0 +1,2 @@
+# CoreJava
+Practising Java concepts 
